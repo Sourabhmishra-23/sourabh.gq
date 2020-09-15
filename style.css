@@ -42,10 +42,7 @@ img[alt$="www.000webhost.com"] { display: none; } /* for 000webhost */
         bottom: 0;
     
 }
-.btn, .p{
-  text-align: center;
-}
-  
+
 :root {
 	--size: 100px;
 	--radius: 5px;
