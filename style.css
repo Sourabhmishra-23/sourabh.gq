@@ -27,6 +27,9 @@ img[alt$="www.000webhost.com"] { display: none; } /* for 000webhost */
   font-weight: bold;
   
 }
+.btn {
+  align-content: bottom;
+}
 :root {
 	--size: 100px;
 	--radius: 5px;
